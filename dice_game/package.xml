@@ -1,0 +1,15 @@
+<package>
+  <name>dice_game</name>
+  <version>0.0.1</version>
+  <description>dice game</description>
+  <maintainer email="tomek.pokorski@gmail.com">Tomasz Pokorski</maintainer>
+
+  <license>BSD</license>
+
+  <author>Tomasz Pokorski</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>irp6_bringup</build_depend>
+  <run_depend>irp6_bringup</run_depend>
+</package>
